@@ -19,7 +19,6 @@ Jack je on demand printing projekt napojený na desítky tiskařských strojů B
 * Chceme se toho hodně naučit – aktivně spolupracujeme s několika mentory
 
 ## O čem to bude:
-*  Mashup API (tiskárna, dopravci, reklamní sítě, Google Analytics)
 *  Optimalizace generování tiskových dat (jak velmi rychle generovat soubor o velikost 300 MB)
   * např. zvládneš vygenerovat PNG 8400x9600px pod 2 vteřiny? 
 *  Rozvoj back-endu napojeného na tiskařské stroje (Brother GT-3)
@@ -30,12 +29,11 @@ Jack je on demand printing projekt napojený na desítky tiskařských strojů B
   * [Jan Antonín Kolář](https://linkedin.com/in/janantoninkolar)
 * Technologie: Python, Flask, AngularJS, HTML5, GAE, Jinja
 
-## Měl bys mít:
-* Rád Python a vědět proč
-* Vlastní projekty v daném jazyce
-* Mindset člověka, který se nebojí robíjet věci
-* Přítomnost v Praze
-* Geek factor 🤓
+## Měl bys:
+* Velmi dobře programovat v Pythonu a vědět proč
+* Mít vlastní miniprojekty
+* Experimentovat
+* Být přítomný v Praze
 
 ## Kontakt
 Zaujalo? Napiš na jan@jack.cz případně na tel.: +420.775272827
