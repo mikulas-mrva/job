@@ -1,6 +1,6 @@
 <img src="jack.png">
 
-## Hledáme Pythonistu na vytisknutí ```(60*10*100)``` kusů 👕
+## Hledáme Pythonistu na vytisknutí ```(60 * 10 * 100)``` kusů 👕
 
 * **Kde:** Praha (Kancelář v [bývalé Dánské ambasádě](http://k10.online/cs/))
 * **Od kdy:** Červenec 2016
