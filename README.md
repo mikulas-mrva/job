@@ -51,7 +51,7 @@ Můžeš se taky podívat na [Google prediction API](https://cloud.google.com/pr
 ### Distribuce
 <img align="right" src="ceska_posta_logo.png"> Musíme mít přesný přehled, kde jsou naše zásilky, z toho důvodu scrapujeme web České pošty (*Ne, API nemají*) a jiných dopravců a zjišťujeme, kde trička cestují. 
 
-Tuto knihovnu by jsme rádi uveřejnili jako open-source, chceš se toho ujmout ?
+Tuto knihovnu bychom rádi uveřejnili jako open-source, chceš se toho ujmout?
 
 ### Máme tričko pro každou obec
 <img align="right" src="vsechny_obce.png"> V Čechách je kolem 6000 obcí a my máme tričko pro každou z nich. Tomu předcházela *science*, kdy jsme museli stáhnout názvy všech obcí, naskloňovat je, určit správnou velikost fontu, zjistit kde se nachází, vytvořit reklamu... I pro tu nejmenší obec v republice.
